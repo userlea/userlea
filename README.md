@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @userlea
 - 👀 I’m interested in participating in the "Good Life!"
-- 🌱 I’m currently learning R, Python, SQL, Kotlin
-- 💞️ I’m looking to collaborate on an app based on the teachings from Microsoft and Git
+- 🌱 I’m currently learning Kotlin, C#, typescript, javascript
+- 💞️ I’m looking to collaborate on projects that are based on the teachings from Microsoft, Github, and Google.
 - 📫 How to reach me email shellayers5@outlook.com
 
 <!---
